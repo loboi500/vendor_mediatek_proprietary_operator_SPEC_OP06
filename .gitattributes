@@ -1,0 +1,2 @@
+SPEC0106 filter=lfs diff=lfs merge=lfs -text
+SPEC0206 filter=lfs diff=lfs merge=lfs -text
